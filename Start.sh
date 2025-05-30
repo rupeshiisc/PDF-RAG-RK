@@ -16,4 +16,4 @@ ollama pull mistral
 ollama pull tinyllama
 
 # Run Streamlit app
-/home/user/.local/bin/streamlit run src/streamlit_app.py --server.port=8501 --server.address=0.0.0.0
+/home/user/.local/bin/streamlit run app.py --server.port=8501 --server.address=0.0.0.0
